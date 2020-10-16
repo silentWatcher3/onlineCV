@@ -9,7 +9,7 @@ Site has been registered on Google Analytics and ca be found by the term <a href
 
 <h3>Tech-Stack</h3>
 <li><b>HTML</b></li>
-<li><b>CSS</b>/li>
+<li><b>CSS</b></li>
 <li><b>JS</b></li>
 <li><b>Bootstrap</b></li>
 
